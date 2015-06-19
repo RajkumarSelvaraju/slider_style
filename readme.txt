@@ -1,4 +1,4 @@
-﻿
+SLider Styles
         Start with any file in folder 'demos', 'examples'
         e.g. you can start with 'examples/simple-slider.source.html'.
         Use 'jssor.js' and 'jssor.slider.js' for development.
